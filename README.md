@@ -1,3 +1,5 @@
+Edited 10/10/16 by Christy Caldwell
+
 # The TIER Documentation Protocol v2.0 for R
 
 ## Overview 
